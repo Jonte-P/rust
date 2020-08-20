@@ -24,8 +24,8 @@ match guess.cmp(&secret_number) {
         println!("You win!");
         break;
     }
-}
-
  }
 
-}
+  }
+
+ }
