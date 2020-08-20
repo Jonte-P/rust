@@ -31,4 +31,4 @@ match guess.cmp(&secret_number) {
   }
 
 } 
-// kore wa pen desu.
+// kore wa test desu.
